@@ -1,0 +1,24 @@
+{
+  "name": "timestamp-microservice",
+  "version": "1.0.0",
+  "description": "A baic timestamp microservice built on Node.js",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/ronaldook/timestamp.git"
+  },
+  "keywords": [
+    "timestamp",
+    "microservice",
+    "node.js"
+  ],
+  "author": "kezaro",
+  "license": "ISC"
+}
